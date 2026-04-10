@@ -1,0 +1,47 @@
+/* Configuración General */
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+/* Título Principal */
+.main-title {
+    font-weight: normal;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+/* Enlaces de Descarga (Aquamarine) */
+.cta-link {
+    color: Aquamarine;
+    font-size: 16px;
+}
+
+/* Títulos Secundarios */
+.secondary-title {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+/* Descripción y Copyright (Gris) */
+.description {
+    color: gray;
+    font-size: 21px;
+}
+
+.copyright {
+    color: gray;
+    text-align: right;
+    padding-right: 20px;
+    margin-top: 40px;
+}
+
+/* Ajustes de Media (Video e Imágenes) */
+video, img {
+    display: block;
+    margin: 30px auto;
+    max-width: 100%;
+}
